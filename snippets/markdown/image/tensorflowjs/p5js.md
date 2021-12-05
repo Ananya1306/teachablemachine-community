@@ -9,7 +9,7 @@ Open up the code snippet below directly in the [p5.js Web Editor](https://editor
   // Classifier Variable
   let classifier;
   // Model URL
-  let imageModelURL = '{{URL}}';
+  let imageModelURL = '{https://teachablemachine.withgoogle.com/models/kRoQPR5q0/}';
   
   // Video
   let video;
